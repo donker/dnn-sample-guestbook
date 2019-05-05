@@ -1,0 +1,28 @@
+.messageRow {
+ border: 1px solid #ddd;
+ border-width: 0 0 1px 0;
+ margin-bottom: 20px;
+}
+.editNote {
+ font-size: 75%;
+ color: #999;
+ width: 100%;
+ text-align: right;
+ line-height: 1.5em;
+}
+.message {
+ padding-bottom: 10px;
+}
+.btnMessage {
+ padding: 2px 6px 2px 6px;
+ margin-right: 6px;
+ border-radius: 4px;
+ border: 1px solid #ddd;
+ background-color: #fff;
+}
+.btnMessage:hover {
+ background-color: #ddd;
+}
+.messageButtons {
+ padding-top: 10px;
+}
